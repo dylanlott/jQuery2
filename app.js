@@ -19,7 +19,7 @@ $(document).ready(function(){
 		}
 	}
 
-	$('#newTaskForm, #newListItem').fadeToggle('fast', 'linear'); 
+	//$('#newTaskForm, #newListItem').fadeToggle('fast', 'linear'); //this shit is broken as fuck 
 
 
 	//opens form 
